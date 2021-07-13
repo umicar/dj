@@ -1,0 +1,41 @@
+body{
+    background-size:cover ;
+}
+
+.heading{
+    width: 100%;
+    font-size: 25px;
+ margin: 0;
+}
+
+.note{
+    font-size: 15px;
+    color: blue;
+}
+.speed{
+    float: left;
+}
+
+.disk_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.volume{
+    float: right;
+}
+
+.btn-info{
+    font-size: 25px;
+    width: 100px;
+}
+
+.btn-success{
+    font-size: 20px;
+}
+
+canvas{
+    border:5px solid red ;
+    border-radius: 20px;
+   
+}
